@@ -20,6 +20,7 @@ I build mobile apps, desktop apps, CLIs, and whatever else a problem needs. Late
 - [**mgkit**](https://github.com/prof18/mgkit) — my workflow for building with agents: roast, plan, execute, review, ship.
 - [**Difftray**](https://difftray.app) — local-first macOS app for reviewing Git changes across projects. Tracks what you reviewed, flags drift, and turns your review notes into prompts for your agent.
 - [**regesto**](https://github.com/prof18/regesto) — a plain-markdown knowledge base that agents read before they act.
+- [**claudup**](https://github.com/prof18/claudup) — keeps one Claude Code Remote Control bridge running per project on an always-on Mac, so every project is its own environment in the Claude app.
 
 ### 🚀 Shipping tooling
 
@@ -29,6 +30,11 @@ I build mobile apps, desktop apps, CLIs, and whatever else a problem needs. Late
 
 - [**RSS-Parser**](https://github.com/prof18/RSS-Parser) — Kotlin Multiplatform parser for RSS, Atom and RDF feeds.
 - [**klead**](https://github.com/prof18/klead) — Kotlin Multiplatform library that extracts clean article content from web pages.
+
+### 🧩 Obsidian plugins
+
+- [**Bases Kanban Toolbox**](https://github.com/prof18/bases-kanban-toolbox) — improves Obsidian's native Bases Kanban boards: manual card order, compact cards, collapsible columns and a card popup.
+- [**HTML Shelf**](https://github.com/prof18/html-shelf) — browse and read the HTML files in your vault, on mobile and desktop, without leaving Obsidian.
 
 ### ✍️ Latest posts
 
